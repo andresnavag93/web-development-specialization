@@ -1,0 +1,27 @@
+header {
+  background-color: #b2b2b2;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+nav a {
+  background-color: #c5c5c5;
+  color: #000;
+}
+
+h2 {
+  color: #12157f;
+  text-transform: uppercase;
+}
+
+.right {
+  background-color: #7f7f7f;
+}
+
+.left a {
+  display: none;
+}
